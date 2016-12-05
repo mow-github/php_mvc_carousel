@@ -11,6 +11,8 @@
 3. (Check controller.php and/or ParentController.php.. one may change the "getImages from Model.php" to a MOCK call..read: 4.)
 4. $obj = $this->model->getImagesMOCK(); (comment the "real" method call)
 
+###### Notes:
+1. JS detects if the images should load a small or large pic.. (depends on the current screen width)
 
 > _"Failure is just a symptom for success"_
 * [link to my homepage - bviking.se ](https://www.bviking.se)
