@@ -3,6 +3,9 @@
 ##### Technologies: HTML5, CSS3, Javascript, JQuery, Bootstrap, PHP, MySQL
 
 ###### Installation example:
+<pre>git clone https://github.com/mow-github/php_mvc_carousel.git</pre>
+
+###### Instructions:
 1. Edit php/model/db_connect.php (connection data to your database)
 2. Start app with URL: (.../php_mvc_test/index.php)
 3. (Check controller.php and/or ParentController.php.. one may change the "getImages from Model.php" to a MOCK call..read: 4.)
